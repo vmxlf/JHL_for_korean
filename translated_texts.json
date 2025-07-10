@@ -1646,5 +1646,11 @@
 	"@@^当前物品价值为<color=#ffee6f>(\\d+)\\(M\\)(\\d+)\\(N\\)<\/color>，是否全部卖出。$": "현재 아이템 가치는 <color=#ffee6f>$1(M)$2(N)</color> 입니다. 판매하시겠습니까?",
 	"@@^(.+)获得(\\d+)点计数，累计达到(\\d+)点计数时(.+)效果。$": "$1 효과 $2 카운트를 획득하고, 누적 $3 카운트에 도달하면 $4 효과가 발생합니다.",
 	"@@^所需能力：<color=#ffee6f>悟性<\/color>（精通<color=#ffee6f>(\\d+)</color>、大成<color=#ffee6f>(\\d+)</color>）$": "필요능력：<color=#ffee6f>오성</color>（정통<color=#ffee6f>$1</color>、대성<color=#ffee6f>$2</color>）",
-	"将{0}名弟子逐出师门或者退隐江湖": "제자 {0}명을 문파에서 추방하거나 은거시키기"
+	"将{0}名弟子逐出师门或者退隐江湖": "제자 {0}명을 문파에서 추방하거나 은거시키기",
+	"@@^建造完成还剩<color=#ffee6f>(\\d+)</color>个月$": "건설 완료까지 <color=#ffee6f>$1</color>개월",
+	"已拥有": "이미 보유",
+	"@@^闭关需要：(\\d+)个月$": "수련 필요: $1개월",
+	"@@^需要<color=#ffee6f>(\\d+)(N)</color>，是否招募<color=#ffee6f>([^<]*)</color>。$": "필요 <color=#ffee6f>$1(N)</color>，<color=#ffee6f>$2</color>을 모집하시겠습니까?",
+	"@@^每回合增加<color=#ffee6f>(\\d+)</color>点身法。$": "매 회차마다 <color=#ffee6f>$1</color>점 신법 증가.",
+	"@@^<color=#ffee6f>([^<]*)</color>：<color=#ffee6f>身法</color>$": "<color=#ffee6f>$1</color>：<color=#ffee6f>신법</color>"
 }
